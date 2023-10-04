@@ -1,4 +1,4 @@
-# Patterns and Flags in Regular Expressions - README
+# Patterns and Flags in Regular Expressions
 
 ## Introduction
 
